@@ -2,6 +2,6 @@ RIKALD RESOLUSI
 - Membuat konten gaming 4x seminggu
 - Melakukan live streaming setiap minggu
 - Berusaha mendapatkan informasi konten video terkini
-- Membuat channel youtube personal
 - Membuat suatu website yang responsif dan interaktif
 - Membuat aplikasi yang berguna untuk orang banyak
+- Berusaha memperbanyak relasi antar sesama developer
